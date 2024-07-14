@@ -6,6 +6,15 @@ function App() {
     //BEM naming convention
     <div className="App">
       <h1>Lets build a Full Stack MERN mtu social app</h1>
+
+      <Video/>
+      {/* app container */}
+      {/* videos */}
+      {/* <video /> */}
+      {/* <video /> */}
+      {/* <video /> */}
+      {/* <video /> */}
+      {/* <video /> */}
     </div>
   );
 }
